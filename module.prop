@@ -1,0 +1,6 @@
+id=dimuuni_dc_switch
+name=Kernel DC Switch
+version=v1.0
+versionCode=1
+author=Dimuuni
+description=Kernel DC dimming switch for KernelSU.
